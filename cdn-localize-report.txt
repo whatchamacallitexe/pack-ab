@@ -6,5 +6,3 @@ FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/bad%20ice%20cream/badi
 
 FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 404
 
-FILE bounty-of-one: https://rawcdn.githack.com/bubbls/UGS-Assets/060a07463cdd2b1007815f81088e4b74d5780d0d/bounty%20of%20one/2022.05.25%20Mons%20GameDevCafe.data -> assets/cdn/46c2aa58-2022.05.25_Mons_GameDevCafe.data
-FILE bounty-of-one: https://rawcdn.githack.com/bubbls/UGS-Assets/060a07463cdd2b1007815f81088e4b74d5780d0d/bounty%20of%20one/2022.05.25%20Mons%20GameDevCafe.wasm -> assets/cdn/12ed4882-2022.05.25_Mons_GameDevCafe.wasm
