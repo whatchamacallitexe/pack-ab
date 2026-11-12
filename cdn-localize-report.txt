@@ -1,0 +1,41 @@
+EMU OK genizy/emu@master cores=fceumm,mgba,snes9x
+FAILED https://cdn.jsdelivr.net/gh/bubbls/ugss@63f44d001c95b775db57a9796ec7668541975062/B3113/b3313.z64: curl: (22) The requested URL returned error: 404
+
+FILE baby-kaizo: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE baby-kaizo: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@f32f4612fce8f22b215af0e9dd99004ea0d0e4c1/Baby%20Kaizo%20World%20(V1.2)%20by%20Nowieso%20%5B2019-02-17%5D%20(SMW%20Hack).7z -> assets/cdn/283a9601-Baby_Kaizo_World_V1.2_by_Nowieso_2019-02-17_SMW_Hack_.7z
+FILE baby-kaizo: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE backyard-football: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@e5e6e99b6ba28ba870524cfab353331822a9b181/Backyard%20Football%20(USA).zip -> assets/cdn/9316e850-Backyard_Football_USA_.zip
+FAILED https://cdn.jsdelivr.net/gh/ruffle-rs/ruffle@master/ruffle.js: curl: (22) The requested URL returned error: 403
+
+FAILED https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/bad%20ice%20cream/badicecream.swf: curl: (22) The requested URL returned error: 404
+
+FILE balatro-gba: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@main/nightly-gbalatro-20251229-348899.zip -> assets/cdn/b4a0875c-nightly-gbalatro-20251229-348899.zip
+FILE balatro-gba: https://cdn.jsdelivr.net/gh/bubbls/brogoofyahhmangogotonablacklistskullwiltingrose@main/loader.js -> assets/cdn/b8e3af49-loader.js
+BASE OK bubbls/UGS-Assets@main/ballistic -> ballistic
+BASE REWRITE ballistic
+FILE balloon-fight: https://cdn.jsdelivr.net/gh/ap-math-class/exams@main/nes/Balloon%20Fight%20(USA).zip -> assets/cdn/3f68d32c-Balloon_Fight_USA_.zip
+FILE basket-random: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1520d90d7b2994737acd8f7a633d018f63c22ca7/style.css -> assets/cdn/33b00798-style.css
+FILE basket-random: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1520d90d7b2994737acd8f7a633d018f63c22ca7/box2d.js -> assets/cdn/14f61d5d-box2d.js
+FILE basket-random: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1520d90d7b2994737acd8f7a633d018f63c22ca7/suppoortcheck.js -> assets/cdn/e9ccc10d-suppoortcheck.js
+FILE basket-random: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1520d90d7b2994737acd8f7a633d018f63c22ca7/offclient.js -> assets/cdn/1d3f503c-offclient.js
+FILE basket-random: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1520d90d7b2994737acd8f7a633d018f63c22ca7/main.js -> assets/cdn/d09fca44-main.js
+FILE basket-random: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1520d90d7b2994737acd8f7a633d018f63c22ca7/registersw.js -> assets/cdn/80badca0-registersw.js
+FILE basket-random: https://cdn.jsdelivr.net/gh/bubbls/ruffle@1520d90d7b2994737acd8f7a633d018f63c22ca7/api.js -> assets/cdn/847253ba-api.js
+FILE big-time-butter-baron: https://cdn.jsdelivr.net/gh/7DatsonBack/3kh0-Assets@60f2f97b00ffe9566ee06c82ecaf67255931118b/Run%202/waflash/waflash-style.css -> assets/cdn/f8a73723-waflash-style.css
+FILE big-time-butter-baron: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@c9b0b39941430635355612483f8d2aae0fa30f9c/Big_Time_Butter_Baron.swf -> assets/cdn/306de0d0-Big_Time_Butter_Baron.swf
+FILE big-time-butter-baron: https://cdn.jsdelivr.net/gh/zhit73/wafedit@183cb00916e4d250ae5bc9813864f9a70cb9986b/wasm/waflash-player.min.js -> assets/cdn/aed266bb-waflash-player.min.js
+FILE bitlife: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/TemplateData/UnityProgress.js -> assets/cdn/257748aa-UnityProgress.js
+FILE bitlife: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/Build/UnityLoader.js -> assets/cdn/790170b9-UnityLoader.js
+FILE bitlife: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/Build/BitLife.json -> assets/cdn/6b3e6591-BitLife.json
+FAILED https://cdn.jsdelivr.net/gh/AndreajnRcm4/b398dl2h74v@9a23fbb2373d743a564873251cbb57736ebc1f73/style.css: curl: (22) The requested URL returned error: 403
+
+FILE blackjack: https://cdn.jsdelivr.net/gh/u-cvlassrom-y/google@main/ruffle.js -> assets/cdn/6fd5328a-ruffle.js
+FILE blackjack: https://cdn.jsdelivr.net/gh/bubbls/UGS-file-encryption@1b4d236a0c262a78cd71ea796f519b58d870dc21/blackjack.swf -> assets/cdn/8b752888-blackjack.swf
+BASE OK Stinkalistic/UGS@main/UNITY/blastronaut -> blastronaut
+BASE REWRITE blastronaut
+FILE bmx2: https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap -> ../_shared/b3879e552666-fonts-b3879e5526.css
+FILE bmx2: https://cdn.jsdelivr.net/gh/a456pur/seraph@81f551ca0aa8e3d6018d32d8ac5904ac9bc78f76/storage/emulatorjs/data/loader.js -> assets/cdn/6515c379-loader.js
+FILE bmx2: https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/storage/js/cloak.js -> ../_shared/cccb2f51c2af-cloak.js
+FILE bounty-of-one: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@060a07463cdd2b1007815f81088e4b74d5780d0d/bounty%20of%20one/TemplateData/style.css -> assets/cdn/60ecc0d3-style.css
+FILE bounty-of-one: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@060a07463cdd2b1007815f81088e4b74d5780d0d/bounty%20of%20one/2022.05.25%20Mons%20GameDevCafe.loader.js -> assets/cdn/8e55e75d-2022.05.25_Mons_GameDevCafe.loader.js
+FILE bounty-of-one: https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@060a07463cdd2b1007815f81088e4b74d5780d0d/bounty%20of%20one/2022.05.25%20Mons%20GameDevCafe.framework.js -> assets/cdn/d434372a-2022.05.25_Mons_GameDevCafe.framework.js
